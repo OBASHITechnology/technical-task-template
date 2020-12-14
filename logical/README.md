@@ -16,8 +16,26 @@ Below are three scenarios involving the diagram above. For each list the **logic
 this could be done programmatically. The output should be in a file called `ANSWERS.md` and live in the same directory as this file. Any supporting resources 
 should be placed into `resources` directory. 
 
-1. The company owner wishes to know who works at the London office. From the diagram and the description above it is fairly 
-clear however consider how you could work this out programmatically (the co-ordinates are there to assist).
+example
+
+```text
+//find which offices Anthony works at (this is crude - just an example)
+
+1 inspect each office element in turn 
+2 if the office <some condition> record it as a workplace
+3 all recorded results <some result>
+
+//programmatic 
+
+Step 1 can be automated by...
+The condition in step 2...
+Step 3 could be improved by...
+
+```
+
+### Questions
+
+1. The company owner wishes to know who works at the London office.
    
 2. To boost skills the company is looking to cross train people who are co-located. Peter is familiar with Sage - who could he train?
 
